@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/taiger/Priyam/MLOps_Experiments/ClearML/mlruns/0/4c57e72335dc4dc0ac49892e52840082/artifacts
+end_time: 1646199046855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4c57e72335dc4dc0ac49892e52840082
+run_uuid: 4c57e72335dc4dc0ac49892e52840082
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1646199045750
+status: 3
+tags: []
+user_id: taiger
